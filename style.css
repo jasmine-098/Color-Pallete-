@@ -1,0 +1,140 @@
+.users{
+    width: 560px;
+    height: 885px;
+    border: 2px solid gray;
+    font-size: 30px;
+    padding: 20px 0px 0px 100px;
+    margin: 0px 300px;
+}
+#h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    text-decoration: underline;
+    color:  #333300;
+    padding: 1px 0px 30px 38px;
+}
+.user1, .user2, .user3, .user4, .user5, .user6, .user7{
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    border-radius: 50%;
+    top: 20%;
+    margin: 0px 304px;
+}
+.user1{
+    background-color: #004d99;
+    left: 5%;
+   
+}
+.user2{
+    background-color: #0066cc;
+    left: 10%;
+}
+.user3{
+    background-color: #0080ff;
+    left: 15%;
+}
+.user4{
+    background-color: #3399ff;
+    left: 20%;
+}
+.user5{
+    background-color: #66b3ff;
+    left: 25%;
+}
+.user6{
+    background-color: #99ccff;
+    left: 30%;
+}
+.user7{
+    background-color: #cce6ff;
+    left: 35%;
+}
+
+.user8, .user9, .user10, .user11, .user12, .user13, .user14{
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    border-radius: 50%;
+    top: 70%; 
+    margin: 0px 304px;
+}
+#h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    text-decoration: underline;
+    color:  #333300;
+    padding: 192px 0px 30px 12px;
+}
+.user8{
+    background-color: #b36b00;
+    left: 5%;
+}
+.user9{
+    background-color: #cc7a00;
+    left: 10%;
+}
+.user10{
+    background-color: #e68a00;
+    left: 15%;
+}
+.user11{
+    background-color: #ff9900;
+    left: 20%;
+}
+.user12{
+    background-color: #ffad33;
+    left: 25%;
+}
+.user13{
+    background-color: #ffb84d;
+    left: 30%;
+}
+.user14{
+    background-color: #ffcc80;
+    left: 35%;
+}
+
+.user15, .user16, .user17, .user18, .user19, .user20, .user21{
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    border-radius: 50%;
+    top: 121%; 
+    margin: 0px 304px;
+}
+#h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    text-decoration: underline;
+    color:  #333300;
+    padding: 202px 0px 30px 28px;
+}
+.user15{
+    background-color: #269900;
+    left: 5%;
+}
+.user16{
+    background-color: #33cc00;
+    left: 10%;
+}
+.user17{
+    background-color: #40ff00;
+    left: 15%;
+}
+.user18{
+    background-color: #66ff33;
+    left: 20%;
+}
+.user19{
+    background-color: #8cff66;
+    left: 25%;
+}
+.user20{
+    background-color: #b3ff99;
+    left: 30%;
+}
+.user21{
+    background-color: #c6ffb3;
+    left: 35%;
+}
